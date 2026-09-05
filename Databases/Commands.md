@@ -67,3 +67,9 @@ podman stop <container id> #индендификатор контейнера
 podman start <container id> #индентификатор контейнера
 ```
 
+### клиент для работы с базой данных 
+
+```url
+https://dbeaver.io/download/
+```
+
